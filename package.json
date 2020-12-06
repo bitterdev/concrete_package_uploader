@@ -1,0 +1,37 @@
+{
+  "name": "grunt-concrete-package-uploader",
+  "description": "Automatically deploy packages to concrete5.org",
+  "version": "1.0.6",
+  "homepage": "http://www.bitter.de",
+  "author": {
+    "name": "Fabian Bitter",
+    "email": "fabian@bitter.de",
+    "url": "http://www.bitter.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitterdev/concrete_package_uploader"
+  },
+  "bugs": {
+    "url": "https://www.bitter.de/support"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE.txt"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "gruntplugin, concrete5, package, upload, packages, addon, add-on, theme, uploading, grunt, gruntjs, automatic, deploy, script"
+  ],
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "form-data": "^2.3.1",
+    "request": "^2.83.0",
+    "sprintf-js": "^1.1.1"
+  }
+}

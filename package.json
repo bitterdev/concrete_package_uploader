@@ -1,7 +1,7 @@
 {
   "name": "grunt-concrete-package-uploader",
   "description": "Automatically deploy packages to concrete5.org",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "homepage": "http://www.bitter.de",
   "author": {
     "name": "Fabian Bitter",
